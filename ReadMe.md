@@ -43,6 +43,11 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
+            <th>Uses</th>
+            <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
+        </tr>
+        <tr>
             <th>Telegram</th>
             <td><a href="https://t.me/BigRope">https://t.me/BigRope</a></td>
             <td>N/A</td>
