@@ -43,12 +43,17 @@ Initiative ID Card
             <td>N/A</td>
         </tr>
         <tr>
-            <th>Uses</th>
+            <th>Uses (data)</th>
+            <td><a href="https://github.com/iPlumb3r/EntangledBootstrap">EntangledBootstrap</a> (SemTech x DistWeb Ecosystems))</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1674">#1674</a></td>
+        </tr>
+        <tr>
+            <th>Uses (model)</th>
             <td><a href="https://github.com/iPlumb3r/pEAr4pEEr">pEAr4pEEr</a> (Enterprise Architecture)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1677">#1673</a></td>
         </tr>
         <tr>
-            <th>Uses</th>
+            <th>Uses (app)</th>
             <td><a href="https://github.com/iPlumb3r/Rhizome">Rhizome</a> (Distributed Semantic App)</td>
             <td><a href="https://www.topincs.com/EntangledBootstrap/1886">#1886</a></td>
         </tr>
