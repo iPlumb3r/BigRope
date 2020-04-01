@@ -29,7 +29,7 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Tags</th>
-            <td>#BusinessModelManagement #ApplicationManagement #UserManagement #CurrencyManagement</td>
+            <td>#EnterpiseArchitecture #BusinessModelManagement #ApplicationManagement #UserManagement #CurrencyManagement</td>
             <td>N/A</td>
         </tr>
         <tr>
