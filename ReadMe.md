@@ -1,6 +1,56 @@
-Big Rope
+The "Big Rope" Initiative
 ==
 
-Meta-App for designig and managing distributed business applications
-
-To Be Completed ...
+Initiative ID Card
+-
+<table>
+    <thead>
+        <tr>
+            <th>What ?</th>
+            <th>Label</th>
+            <th>EBR ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Name</th>
+            <td>The "Big Rope" Initiative</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1908">#1908</a></td>
+        </tr>
+        <tr>
+            <th>Description</th>
+            <td>An application for designing and managing distributed business applications</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Deliverable</th>
+            <td>Meta-Application</td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1408">#1408</a></td>
+        </tr>
+        <tr>
+            <th>Tags</th>
+            <td>#BusinessModelManagement #ApplicationManagement</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Domain</th>
+            <td>Intersection between #SemanticTechnologies & #DistributedWeb Ecosystems</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Used By</th>
+            <td>dSemPLM (COMPaaS), dSemCRM, dSemERP, ...)</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Telegram</th>
+            <td><a href="https://t.me/BigRope">https://t.me/BigRope</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <th>Big Picture</th>
+            <td><a href="https://github.com/iPlumb3r/SEAMLESS">SEAMLESS</a>. See <a href="http://hubject.net/iPlumb3r/GitHub/BigPicture.html">Overview</a></td>
+            <td><a href="https://www.topincs.com/EntangledBootstrap/1671">#1671</a></td>
+        </tr>
+    </tbody>
+</table>
