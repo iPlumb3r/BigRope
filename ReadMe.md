@@ -19,17 +19,17 @@ Initiative ID Card
         </tr>
         <tr>
             <th>Description</th>
-            <td>An application for designing and managing distributed business applications</td>
+            <td>Designing an application for designing and managing distributed business applications</td>
             <td>N/A</td>
         </tr>
         <tr>
             <th>Deliverable</th>
-            <td>Meta-Application</td>
-            <td><a href="https://www.topincs.com/EntangledBootstrap/1408">#1408</a></td>
+            <td>A Meta-Application</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <th>Tags</th>
-            <td>#BusinessModelManagement #ApplicationManagement</td>
+            <td>#BusinessModelManagement #ApplicationManagement #UserManagement #CurrencyManagement</td>
             <td>N/A</td>
         </tr>
         <tr>
